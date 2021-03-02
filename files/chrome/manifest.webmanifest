@@ -1,0 +1,16 @@
+{
+  "background_color": "white",
+  "description": "a chrome tool that helps you find roblox audio/models/decals",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/hammer.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "RobloxLB",
+  "short_name": "RobloxLB",
+  "start_url": "index.html"
+}
+

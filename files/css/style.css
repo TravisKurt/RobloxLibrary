@@ -44,7 +44,7 @@
     font-family: 'Arial Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('Arial Medium'), url('ArialMdm.woff') format('woff');
+    src: local('Arial Medium'), url('files/font/ArialMdmItl.woff') format('woff');
     }
     
 
@@ -52,7 +52,7 @@
     font-family: 'Arial Medium Italic';
     font-style: normal;
     font-weight: normal;
-    src: local('Arial Medium Italic'), url('ArialMdmItl.woff') format('woff');
+    src: local('Arial Medium Italic'), url('files/font/ArialMdmItl.woff') format('woff');
     }
     
 
